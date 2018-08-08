@@ -1,0 +1,6 @@
+framework module Pods_pacificgalvanizingTests {
+  umbrella header "Pods-pacificgalvanizingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
